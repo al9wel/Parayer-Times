@@ -2,4 +2,4 @@
 
 # Shows The Prayer Times In Yemen
 
-# Using API
+# Using aladhan API
