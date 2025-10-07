@@ -9,6 +9,12 @@ The project focuses on simplicity, accuracy, and responsiveness — making it ea
 
 ---
 
+## 📍Live Demo
+
+- https://al9wel-5.netlify.app/
+
+---
+
 ## 🚀 Features
 
 - 🕋 **Accurate Prayer Times** – Fetches real-time prayer timings via API for all Yemeni cities.  
